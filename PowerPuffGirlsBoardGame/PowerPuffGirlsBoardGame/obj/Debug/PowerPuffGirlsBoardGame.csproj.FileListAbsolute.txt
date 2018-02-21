@@ -1,0 +1,10 @@
+C:\Users\jgmac\source\repos\PowerPuffGirlsBoardGame\PowerPuffGirlsBoardGame\bin\Debug\PowerPuffGirlsBoardGame.exe.config
+C:\Users\jgmac\source\repos\PowerPuffGirlsBoardGame\PowerPuffGirlsBoardGame\bin\Debug\PowerPuffGirlsBoardGame.exe
+C:\Users\jgmac\source\repos\PowerPuffGirlsBoardGame\PowerPuffGirlsBoardGame\bin\Debug\PowerPuffGirlsBoardGame.pdb
+C:\Users\jgmac\source\repos\PowerPuffGirlsBoardGame\PowerPuffGirlsBoardGame\obj\Debug\PowerPuffGirlsBoardGame.Form1.resources
+C:\Users\jgmac\source\repos\PowerPuffGirlsBoardGame\PowerPuffGirlsBoardGame\obj\Debug\PowerPuffGirlsBoardGame.Properties.Resources.resources
+C:\Users\jgmac\source\repos\PowerPuffGirlsBoardGame\PowerPuffGirlsBoardGame\obj\Debug\PowerPuffGirlsBoardGame.csproj.GenerateResource.Cache
+C:\Users\jgmac\source\repos\PowerPuffGirlsBoardGame\PowerPuffGirlsBoardGame\obj\Debug\PowerPuffGirlsBoardGame.csproj.CoreCompileInputs.cache
+C:\Users\jgmac\source\repos\PowerPuffGirlsBoardGame\PowerPuffGirlsBoardGame\obj\Debug\PowerPuffGirlsBoardGame.exe
+C:\Users\jgmac\source\repos\PowerPuffGirlsBoardGame\PowerPuffGirlsBoardGame\obj\Debug\PowerPuffGirlsBoardGame.pdb
+C:\Users\jgmac\source\repos\PowerPuffGirlsBoardGame\PowerPuffGirlsBoardGame\obj\Debug\PowerPuffGirlsBoardGame.csprojResolveAssemblyReference.cache
